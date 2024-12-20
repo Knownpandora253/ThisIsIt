@@ -69,4 +69,9 @@ public class Controllerr extends CommandXboxController {
     return this.rightStick();
   }
 
+  public static void onTrue(double d, double e, double f) {
+    // TODO Auto-generated method stub
+    throw new UnsupportedOperationException("Unimplemented method 'onTrue'");
+  }
+
 }
